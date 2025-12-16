@@ -13,4 +13,4 @@
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boonyarit-kim&layout=compact&theme=vision-vibrant)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boonyarit-kim&show_icons=true&theme=vision-vibrant)
