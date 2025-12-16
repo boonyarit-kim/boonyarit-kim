@@ -1,7 +1,16 @@
-<h1 align="left">Hi 👋, I'm Boonyarit Swangboonrasri (Kim)</h1>
-<h3 align="left">👨‍🎓I am a third-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus. 
-<h3 align="left">📊 I am dedicated to pursuing a career in Data Science and Machine Learning Engineering. 
-<h3 align="left">✨ I have a passion for building AI-driven solutions and exploring the latest technologies that turn data into impact.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is I'm Boonyarit Swangboonrasri (Kim)
+===========================================================================================================================================================
+
+About me
+--------
+
+👨‍🎓I am a third-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus.
+
+📊 I am dedicated to pursuing a career in Data Science and Machine Learning Engineering.
+
+✨ I have a passion for building AI-driven solutions and exploring the latest technologies that turn data into impact.
+
+* ✉️  You can contact me at [boonyarit.swb@gmail.com](mailto:boonyarit.swb@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
