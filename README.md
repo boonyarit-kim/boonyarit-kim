@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Boonyarit Swangboonrasri (Kim)</h1>
-<h3 align="center">👨‍🎓I am a third-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus. 📊 I am dedicated to pursuing a career in Data Science and Machine Learning Engineering. ✨ I have a passion for building AI-driven solutions and exploring the latest technologies that turn data into impact.</h3>
+<h1 align="left">Hi 👋, I'm Boonyarit Swangboonrasri (Kim)</h1>
+<h3 align="left">👨‍🎓I am a third-year student majoring in Digital Science and Technology (DiSTech) at Kasetsart University, Sriracha Campus. 
+  📊 I am dedicated to pursuing a career in Data Science and Machine Learning Engineering. 
+  ✨ I have a passion for building AI-driven solutions and exploring the latest technologies that turn data into impact.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
